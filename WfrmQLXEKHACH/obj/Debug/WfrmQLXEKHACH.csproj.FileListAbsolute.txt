@@ -1,0 +1,472 @@
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csprojResolveAssemblyReference.cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.Cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csprojResolveAssemblyReference.cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frXacNhanThongTinVe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.Cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH26102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csprojResolveAssemblyReference.cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.Cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csprojResolveAssemblyReference.cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.From_Admin.frm_QLTaiKhoan.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH28102023\WfrmQLXEKHACH28102023\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.Cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csprojResolveAssemblyReference.cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.From_Admin.frm_QLTaiKhoan.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.Cache
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+D:\mac_tamthoi\CONG NGHE .NET\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csprojResolveAssemblyReference.cache
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.Cache
+C:\Users\buiquocbao\Pictures\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaChuyenXe.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án Test\WfrmQLXEKHACH-20231119T131703Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaTaiXe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaChuyenXe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaKhachHang.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaTaiXe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVeAdmin.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinTaiXe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinVe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinVe.resources
+D:\HK5\DOTNET\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinTaiXe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csprojResolveAssemblyReference.cache
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaChuyenXe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaKhachHang.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaTaiXe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVeAdmin.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinTaiXe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinVe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinTaiXe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinVe.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.Cache
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+C:\Users\buiquocbao\Pictures\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaChuyenXe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaKhachHang.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaTaiXe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVeAdmin.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinTaiXe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinVe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinTaiXe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinVe.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+C:\Users\ASUS\Downloads\WfrmQLXEKHACH.rar-20231203T023844Z-001\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaChuyenXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaTaiXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVeAdmin.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinTaiXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinTaiXe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinVe.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\Công Nghệ .NET\Đồ Án\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaChuyenXe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaKhachHang.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaTaiXe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVeAdmin.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinTaiXe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinVe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinTaiXe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinVe.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\Học Kì 5_HUIT\Công Nghệ .NET\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe.config
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.exe
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\WfrmQLXEKHACH.pdb
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.AssemblyReference.cache
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_11.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmChonGhe_8.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangKy.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmDangNhap.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmAboutUs.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeAdmin.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLChuyen.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLKhachHang.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiKhoan.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTaiXe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLThongKe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLTuyen.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLVe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmQLXe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaChuyenXe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaDiaChi.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaKhachHang.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaSoDienThoai.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaTaiXe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmKhungHomeAdmin.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmHomeKhachHang.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmLayLaiMK.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThanhToan.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmXacNhanThongTinVe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmSuaVeAdmin.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinTaiXe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongKeThongTinVe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinTaiXe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.frmThongTinVe.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.Properties.Resources.resources
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.GenerateResource.cache
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CoreCompileInputs.cache
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CopyComplete
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\3SHOP_DoAnQuanLiXeKhach\DoAnQuanLiXeKhach\WfrmQLXEKHACH\WfrmQLXEKHACH\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
