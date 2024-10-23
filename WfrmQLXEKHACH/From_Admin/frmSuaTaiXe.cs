@@ -17,8 +17,54 @@ namespace WfrmQLXEKHACH
         {
             InitializeComponent();
         }
+        public string MaTXText
+        {
+            get { return txtMaTX.Text; }
+            set { txtMaTX.Text = value; }
+        }
 
-        private void frmSuaTaiXe_Load(object sender, EventArgs e)
+        public string TenTXText
+        {
+            get { return txtTenTX.Text; }
+            set { txtTenTX.Text = value; }
+        }
+
+        public string CCCDText
+        {
+            get { return txtCCCD.Text; }
+            set { txtCCCD.Text = value; }
+        }
+
+        public string SoNhaText
+        {
+            get { return txtSoNha.Text; }
+            set { txtSoNha.Text = value; }
+        }
+
+        public string DuongText
+        {
+            get { return txtDuong.Text; }
+            set { txtDuong.Text = value; }
+        }
+
+        public string PhuongXaText
+        {
+            get { return txtPhuongXa.Text; }
+            set { txtPhuongXa.Text = value; }
+        }
+
+        public string QuanHuyenText
+        {
+            get { return txtQuanHuyen.Text; }
+            set { txtQuanHuyen.Text = value; }
+        }
+
+        public string TinhTpText
+        {
+            get { return txtTinhTp.Text; }
+            set { txtTinhTp.Text = value; }
+        }
+        public void frmSuaTaiXe_Load(object sender, EventArgs e)
         {
             DataTable dt = con.LoadThongTinTaiXe();
             txtMaTX.Enabled = false;
@@ -32,7 +78,7 @@ namespace WfrmQLXEKHACH
             txtTinhTp.Text = dt.Rows[0][7].ToString();
         }
 
-        private void btnXoa_Click(object sender, EventArgs e)
+        public void btnXoa_Click(object sender, EventArgs e)
         {
             string sql = "delete TAIXE where MaTaiXe = '" + CONNECTION.MaTaixeDangSua + "'";
             string kq = con.TruyvanInsertDeleteUpdate(sql);
@@ -41,7 +87,7 @@ namespace WfrmQLXEKHACH
             this.Close();
         }
 
-        private void btnThemMoi_Click(object sender, EventArgs e)
+        public void btnThemMoi_Click(object sender, EventArgs e)
         {
             txtMaTX.Enabled = true;
             them = true;
@@ -55,7 +101,7 @@ namespace WfrmQLXEKHACH
             txtTinhTp.Clear();
         }
 
-        private void btnLuuThayDoi_Click(object sender, EventArgs e)
+        public void btnLuuThayDoi_Click(object sender, EventArgs e)
         {
             if (String.IsNullOrEmpty(txtMaTX.Text) || String.IsNullOrEmpty(txtTenTX.Text))
             {

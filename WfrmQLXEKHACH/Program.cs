@@ -34,7 +34,7 @@ namespace WfrmQLXEKHACH
         public SqlConnection connection;
         public DataSet ds;
         public DataTable dt;
-        public static string StrDATABASE;
+        public static string StrDATABASE = "Data Source=LAPTOP-H0BOFLN9;Initial Catalog=QLXEKHACH;User ID=sa;Password=123;Encrypt=False";
         public static string TKadmin;
         public static string MaKhachHang, ChuyenDangChon, GheDangChon;
         public static int GiaVeDangChon;

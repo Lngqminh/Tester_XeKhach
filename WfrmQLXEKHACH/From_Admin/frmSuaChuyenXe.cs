@@ -18,8 +18,56 @@ namespace WfrmQLXEKHACH
         {
             InitializeComponent();
         }
+        public string MaChuyenXe
+        {
+            get { return txt_MaCXe.Text; }
+            set { txt_MaCXe.Text = value; }
+        }
 
-        private void frmSuaChuyenXe_Load(object sender, EventArgs e)
+        // Property for MaTuyenXe (Mã Tuyến Xe)
+        public string MaTuyenXe
+        {
+            get { return cboMaTuyenXe.SelectedValue.ToString(); }
+            set { cboMaTuyenXe.SelectedValue = value; }
+        }
+
+        // Property for MaXe (Mã Xe)
+        public string MaXe
+        {
+            get { return cboMaXe.SelectedValue.ToString(); }
+            set { cboMaXe.SelectedValue = value; }
+        }
+
+        // Property for GiaTien (Giá Tiền)
+        public string GiaTien
+        {
+            get { return txt_GiaTien.Text; }
+            set { txt_GiaTien.Text = value; }
+        }
+
+        // Property for ThoiGianDi (Thời Gian Đi)
+        public string ThoiGianDi
+        {
+            get { return mTX_ThoiGianDi.Text; }
+            set { mTX_ThoiGianDi.Text = value; }
+        }
+
+        // Property for ThoiGianDen (Thời Gian Đến Dự Kiến)
+        public string ThoiGianDen
+        {
+            get { return mTX_ThoiGianDen.Text; }
+            set { mTX_ThoiGianDen.Text = value; }
+        }
+
+        // Property for SoGheTrong (Số Ghế Trống)
+        public string SoGheTrong
+        {
+            get { return txt_SoGheTrong.Text; }
+            set { txt_SoGheTrong.Text = value; }
+        }
+
+        public int Flat { get => flat; set => flat = value; }
+        public void frmSuaChuyenXe_Load(object sender, EventArgs e)
         {
             cboMaTuyenXe.DataSource = con.LoadComboboxTuyenXe();
             cboMaTuyenXe.DisplayMember = "MaTuyenXe";
@@ -78,7 +126,7 @@ namespace WfrmQLXEKHACH
             lb_TenCXe.Text = "Thông tin chuyến " + txt_MaCXe.Text;
         }
 
-        private void btn_Luu_Click(object sender, EventArgs e)
+        public void btn_Luu_Click(object sender, EventArgs e)
         {
             if(flat == 0)
             {
@@ -125,7 +173,7 @@ namespace WfrmQLXEKHACH
                 
         }
 
-        private void btn_Sua_Click(object sender, EventArgs e)
+        public void btn_Sua_Click(object sender, EventArgs e)
         {
             flat = 1;
             btn_Luu.Enabled = true;
@@ -139,7 +187,7 @@ namespace WfrmQLXEKHACH
 
         }
 
-        private void btn_Xoa_Click(object sender, EventArgs e)
+        public void btn_Xoa_Click(object sender, EventArgs e)
         {
             string sql = "delete CHUYENXE where MaChuyenXe = '"+txt_MaCXe.Text+"'";
             string kq = con.TruyvanInsertDeleteUpdate(sql);
@@ -148,7 +196,7 @@ namespace WfrmQLXEKHACH
             this.Close();
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        public void timer1_Tick(object sender, EventArgs e)
         {
 
         }

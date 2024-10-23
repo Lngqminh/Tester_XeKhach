@@ -21,6 +21,7 @@ D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\XemVe_Test\bin\Debug\Mo
 D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\XemVe_Test\bin\Debug\Castle.Core.xml
 D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\XemVe_Test\bin\Debug\Moq.pdb
 D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\XemVe_Test\bin\Debug\Moq.xml
+<<<<<<< Updated upstream
 C:\Users\ACER\Desktop\Tester\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.csproj.AssemblyReference.cache
 C:\Users\ACER\Desktop\Tester\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.csproj.CoreCompileInputs.cache
 C:\Users\ACER\Desktop\Tester\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.dll
@@ -44,3 +45,28 @@ C:\Users\ACER\Desktop\Tester\Tester_XeKhach\XemVe_Test\bin\Debug\Moq.xml
 C:\Users\ACER\Desktop\Tester\Tester_XeKhach\XemVe_Test\bin\Debug\WfrmQLXEKHACH.pdb
 C:\Users\ACER\Desktop\Tester\Tester_XeKhach\XemVe_Test\bin\Debug\WfrmQLXEKHACH.exe.config
 C:\Users\ACER\Desktop\Tester\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.csproj.CopyComplete
+=======
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.csproj.AssemblyReference.cache
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.pdb
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Tester.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Tester.pdb
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Castle.Core.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Moq.dll
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\WfrmQLXEKHACH.exe
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Castle.Core.xml
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Moq.pdb
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\Moq.xml
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\WfrmQLXEKHACH.pdb
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\bin\Debug\WfrmQLXEKHACH.exe.config
+D:\DATA\2024-2025\KiemDinhPhanMem\Tester_XeKhach\XemVe_Test\obj\Debug\Tester.csproj.CopyComplete
+>>>>>>> Stashed changes
