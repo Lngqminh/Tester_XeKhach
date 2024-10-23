@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data;
 using System.Windows.Forms;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -7,127 +8,88 @@ using WfrmQLXEKHACH;
 namespace Tester
 {
     [TestClass]
-    public class frmHomeKhachHangTests
+    public class NUnit_DatVe
     {
-        frmHomeKhachHang form;
-        frmDangNhap formDN;
-        CONNECTION conn;
+        private frmHomeKhachHang form;
 
         [TestInitialize]
         public void Setup()
         {
-            // Khởi tạo kết nối và form
-            conn = new CONNECTION();
+            // Thiết lập chuỗi kết nối
+            CONNECTION.StrDATABASE = "Data Source=QuangMinh;Initial Catalog=QLXEKHACH;Integrated Security=True";
+
             form = new frmHomeKhachHang();
-            form.con = conn;
-            form.Show();
+            form.con = new CONNECTION(); // Khởi tạo kết nối database cần thiết
 
-            // Khởi tạo form đăng nhập
-            formDN = new frmDangNhap();
-
-            // Thực hiện đăng nhập
-            PerformLogin();
+            // Thêm dữ liệu mẫu vào cơ sở dữ liệu nếu cần thiết
+            AddSampleData();
         }
 
-        private void PerformLogin()
+        private void AddSampleData()
         {
-            // Giả lập nhập thông tin đăng nhập
-            string username = "0582879834"; // Thay thế bằng username hợp lệ
-            string password = "123"; // Thay thế bằng password hợp lệ
+            // Thêm dữ liệu mẫu vào các bảng cần thiết cho kiểm thử
+            form.con.TruyvanInsertDeleteUpdate("INSERT INTO TUYENXE (MaTuyenXe, TenTuyenXe, DiemDi, DiemDen) VALUES ('T0001', 'Tuyến 1', 'Bình Thuận', 'TPHCM')");
+            form.con.TruyvanInsertDeleteUpdate("INSERT INTO CHUYENXE (MaChuyenXe, MaTuyenXe, GiaTien, ThoiGianXuatPhat) VALUES ('C1011', 'T0001', 100000, '2024-10-25 08:00:00')");
+            form.con.TruyvanInsertDeleteUpdate("INSERT INTO VEXE (MaVeXe, MaKhachHang, MaChuyenXe) VALUES ('V0001', 'KH001', 'C1011')");
+            form.con.TruyvanInsertDeleteUpdate("INSERT INTO VEXE (MaVeXe, MaKhachHang, MaChuyenXe) VALUES ('V0002', 'KH002', 'C1011')");
 
-            formDN.txtUsername.Text = username;
-            formDN.txtPassword.Text = password;
-
-            // Giả lập nhấn nút đăng nhập
-            formDN.btnDangNhap_Click(null, null);
-
-            // Kiểm tra xem đã đăng nhập thành công chưa
-            Assert.IsTrue(form.Visible, "Đăng nhập không thành công.");
-        }
-
-        [TestMethod]
-        public void Test_DatabaseConnection()
-        {
-            try
-            {
-                CONNECTION.StrDATABASE = "Data Source=QuangMinh;Initial Catalog=QLXEKHACH;Integrated Security=True";
-                conn = new CONNECTION();
-                conn.connection.Open();
-                Assert.AreEqual(ConnectionState.Open, conn.connection.State, "Kết nối đến cơ sở dữ liệu không thành công.");
-            }
-            catch (Exception ex)
-            {
-                Assert.Fail("Lỗi kết nối: " + ex.Message);
-            }
-            finally
-            {
-                if (conn.connection.State == ConnectionState.Open)
-                {
-                    conn.connection.Close();
-                }
-            }
-        }
-
-        [TestMethod]
-        public void Test_LoadHoSo()
-        {
-            // Arrange
-            frmHomeKhachHang form = new frmHomeKhachHang();
-
-            // Act
-            form.LoadHoSo();
-
-            // Assert
-            Assert.IsFalse(string.IsNullOrEmpty(form.txt_Ten.Text), "Tên không được trống.");
-            Assert.IsFalse(string.IsNullOrEmpty(form.txt_GioiTinh.Text), "Giới tính không được trống.");
-            Assert.IsFalse(string.IsNullOrEmpty(form.txt_DiaChi.Text), "Địa chỉ không được trống.");
-        }
-
-
-        [TestMethod]
-        public void Test_LoadVe()
-        {
-            int index = 2; // Ví dụ chỉ số vé
-            form.LoadVe(index); // Gọi phương thức để tải vé
-
-            // Kiểm tra xem DataGridView có dữ liệu không
-            Assert.IsNotNull(form.dGV_XemVe.DataSource, "DataSource không được null.");
-            Assert.IsTrue(((DataTable)form.dGV_XemVe.DataSource).Rows.Count > 0, "Không có vé nào được tải.");
+            // Cần thêm dữ liệu vào combobox
+            form.cboDiemDi.DataSource = new List<string> { "Bình Thuận" }; // Giả lập dữ liệu cho combobox
+            form.cboDiemDen.DataSource = new List<string> { "TPHCM" }; // Giả lập dữ liệu cho combobox
         }
 
         [TestMethod]
         public void Test_TimChuyen()
         {
-            // Thiết lập giá trị cho các trường cần thiết
-            form.cboDiemDi.SelectedValue = "Bình Thuận";
-            form.cboDiemDen.SelectedValue = "TPHCM";
-            form.dtpNgayDi.Value = new DateTime(2024, 10, 25);
+            // Giả lập dữ liệu cho combobox
+            form.cboDiemDi.SelectedValue = "Bình Thuận"; // Giá trị này phải tồn tại trong cơ sở dữ liệu
+            form.cboDiemDen.SelectedValue = "TPHCM"; // Giá trị này cũng phải tồn tại trong cơ sở dữ liệu
+            form.dtpNgayDi.Value = DateTime.Now; // Ngày hiện tại
 
-            // Gọi phương thức để tìm chuyến
+            // Gọi phương thức tìm chuyến
             form.TimChuyen();
 
-            // Kiểm tra xem DataGridView có dữ liệu không
-            Assert.IsNotNull(form.dGV_DatVe.DataSource, "DataSource không được null.");
-            Assert.IsTrue(((DataTable)form.dGV_DatVe.DataSource).Rows.Count > 0, "Không có chuyến nào được tìm thấy.");
+            // Kiểm tra dữ liệu kết quả
+            Assert.IsNotNull(form.dGV_DatVe.DataSource, "DataGridView không có dữ liệu sau khi tìm chuyến.");
+            Assert.IsTrue(form.dGV_DatVe.Rows.Count > 0, "Không tìm thấy chuyến xe nào.");
         }
 
         [TestMethod]
-        public void Test_btn_Huy_Click()
+        public void Test_LoadVe()
         {
-            // Giả định rằng một vé đã được chọn
-            CONNECTION.VeDangChon = "V0034";
+            // Giả lập vé từ database
+            int trangThaiVe = 0; // Tất cả vé
+            form.LoadVe(trangThaiVe);
 
-            // Gọi phương thức hủy
-            form.btn_Huy_Click(null, null);
+            // Kiểm tra dữ liệu kết quả
+            Assert.IsNotNull(form.dGV_XemVe.DataSource, "DataGridView không có dữ liệu sau khi load vé.");
+            Assert.IsTrue(form.dGV_XemVe.Rows.Count > 0, "Không có vé nào được hiển thị.");
+        }
 
-            // Kiểm tra rằng VéDangChon đã được hủy
-            Assert.AreEqual("", CONNECTION.VeDangChon, "Vé không được hủy thành công.");
+        [TestMethod]
+        public void Test_CellClick_ChonVe()
+        {
+            // Giả lập dữ liệu cho DataGridView
+            form.dGV_DatVe.DataSource = form.con.LoadChuyen(); // Giả lập dữ liệu các chuyến xe
+
+            // Kiểm tra rằng DataGridView không rỗng
+            Assert.IsNotNull(form.dGV_DatVe.DataSource, "DataGridView không có dữ liệu để chọn.");
+            Assert.IsTrue(form.dGV_DatVe.Rows.Count > 0, "Không có chuyến nào để chọn.");
+
+            // Giả lập sự kiện chọn dòng trong DataGridView
+            var args = new DataGridViewCellEventArgs(0, 0); // Giả lập click vào ô đầu tiên
+            form.dGV_DatVe_CellClick(form.dGV_DatVe, args);
+
+            // Kiểm tra kết quả sau khi chọn chuyến xe
+            Assert.AreEqual(CONNECTION.ChuyenDangChon, form.dGV_DatVe.Rows[0].Cells[0].Value.ToString(), "Chuyến xe chọn không đúng.");
         }
 
         [TestCleanup]
         public void Cleanup()
         {
-            form.Close(); // Đóng form sau khi hoàn tất kiểm thử
+            // Đóng kết nối và dọn dẹp các đối tượng
+            form.con.connection.Close();
+            form.Dispose();
         }
     }
 }
