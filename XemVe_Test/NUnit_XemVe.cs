@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using System.Data; 
 using WfrmQLXEKHACH;
 
-namespace XemVe_Test
+namespace Tester
 {
     [TestClass]
     public class NUnit_XemVe

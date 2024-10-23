@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WfrmQLXEKHACH", "WfrmQLXEKH
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{94C6DEBC-D0DB-4B05-9195-70B3E9D3241D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XemVe_Test", "XemVe_Test\XemVe_Test.csproj", "{284F821F-8FBD-44F2-8015-F522EF63B5E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "XemVe_Test\Tester.csproj", "{284F821F-8FBD-44F2-8015-F522EF63B5E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
