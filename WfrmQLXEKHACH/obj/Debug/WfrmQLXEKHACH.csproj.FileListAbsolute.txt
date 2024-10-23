@@ -518,3 +518,8 @@ D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\obj\Debug
 D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.csproj.CopyComplete
 D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.exe
 D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\obj\Debug\WfrmQLXEKHACH.pdb
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\bin\Debug\Castle.Core.dll
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\bin\Debug\Moq.dll
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\bin\Debug\Castle.Core.xml
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\bin\Debug\Moq.pdb
+D:\Hoc_Ki_7_HUIT\Kiem_Dinh_Phan_Mem\Do_An\Tester_XeKhach\WfrmQLXEKHACH\bin\Debug\Moq.xml

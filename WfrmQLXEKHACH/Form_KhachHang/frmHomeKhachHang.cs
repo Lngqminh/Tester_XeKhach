@@ -104,12 +104,11 @@ namespace WfrmQLXEKHACH
             TimChuyen();
         }
 
-        private void dGV_DatVe_CellClick(object sender, DataGridViewCellEventArgs e)
+        public void dGV_DatVe_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
             {
                 int index = e.RowIndex;
-                //con.ChuyenDangChon = dGV_DatVe.Rows[index].Cells[0].Value.ToString();
                 string chonchuyen = dGV_DatVe.Rows[index].Cells[0].Value.ToString();
                 con.ChonChuyen(chonchuyen);
                 int TongGhe = Convert.ToInt32(dGV_DatVe.Rows[index].Cells[6].Value);
@@ -291,7 +290,7 @@ namespace WfrmQLXEKHACH
             else LoadVe(-1);
         }
 
-        private void dGV_XemVe_CellClick(object sender, DataGridViewCellEventArgs e)
+        public void dGV_XemVe_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
             {
@@ -312,7 +311,7 @@ namespace WfrmQLXEKHACH
             }
         }
 
-        private void btn_Huy_Click(object sender, EventArgs e)
+        public void btn_Huy_Click(object sender, EventArgs e)
         {
             //int i = VeDangChon;
             //string s="";

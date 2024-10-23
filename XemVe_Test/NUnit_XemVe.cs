@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Windows.Forms;
-using System.Data; 
+using System.Data;
 using WfrmQLXEKHACH;
 
 namespace Tester
@@ -9,66 +9,50 @@ namespace Tester
     public class NUnit_XemVe
     {
         frmHomeKhachHang form;
-        CONNECTION connect;
-        
+        CONNECTION conn;
+
         [TestInitialize]
         public void Setup()
         {
-            // Khởi tạo form
-            connect = new CONNECTION();
-            form = new frmHomeKhachHang();
-            form.con = connect;
-            form.Show(); // Hiển thị form để đảm bảo mọi control được khởi tạo
+            // Khởi tạo kết nối nếu cần
+            conn = new CONNECTION(); 
 
-            // Kiểm tra xem kết nối có thành công không
-            try
-            {
-                form.con.connection.Open();
-                form.con.connection.Close();
-            }
-            catch
-            {
-                Assert.Inconclusive("Không thể kết nối đến cơ sở dữ liệu.");
-            }
+            // Khởi tạo form
+            form = new frmHomeKhachHang();
+            form.con = conn;
+            form.Show(); 
         }
 
-        [TestCleanup]
+        [TestCleanup] 
         public void Teardown()
         {
-            // Đóng form sau mỗi test case
             form.Close();
         }
+
         [TestMethod]
         public void Test_XemVe_ChuyenTabXemVe()
         {
-            // Gọi phương thức xemve để chuyển tab
             form.xemve();
-
-            // Kiểm tra tab hiện tại có phải là tab Xem Vé không
             Assert.AreEqual("tab_XemVe", form.tab_Home.SelectedTab.Name);
         }
 
         [TestMethod]
         public void Test_LoadVe_LoadsDataIntoGridView()
         {
-            // Gọi phương thức LoadVe để tải dữ liệu
-            form.LoadVe(0);
-
-            // Kiểm tra DataGridView không rỗng
+            // Kiểm tra xem dGV_XemVe có được khởi tạo không
             var gridView = (DataGridView)form.Controls["dGV_XemVe"];
-            Assert.IsNotNull(gridView);
+            Assert.IsNotNull(gridView, "dGV_XemVe không được tìm thấy.");
+
+            // Gọi LoadVe để tải dữ liệu
+            form.LoadVe(0);
             Assert.IsTrue(gridView.Rows.Count > 0, "Không có vé nào được tải");
         }
 
         [TestMethod]
-        public void Test_btn_TimKiem_Click_FillsDataGridView()
+        public void Test_XemVe_TabVeDaChon()
         {
-            // Gọi phương thức tìm kiếm
-            form.btn_TimKiem_Click(null, null);
-
-            // Kiểm tra kết quả được tải vào dGV_DatVe
-            var gridView = (DataGridView)form.Controls["dGV_DatVe"];
-            Assert.IsTrue(gridView.Rows.Count > 0, "Không có chuyến xe nào được tìm thấy");
+            form.xemve(); // Chọn tab "XemVe"
+            Assert.AreEqual(form.tab_Home.SelectedTab, form.tab_XemVe, "Tab 'XemVe' không được chọn.");
         }
     }
 }

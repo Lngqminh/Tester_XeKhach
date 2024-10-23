@@ -840,17 +840,17 @@ namespace WfrmQLXEKHACH
         #endregion
 
         public System.Windows.Forms.TabControl tab_Home;
-        private System.Windows.Forms.TabPage tab_DatVe;
-        private System.Windows.Forms.DateTimePicker dtpNgayDi;
-        private System.Windows.Forms.ComboBox cboDiemDen;
-        private System.Windows.Forms.ComboBox cboDiemDi;
+        public System.Windows.Forms.TabPage tab_DatVe;
+        public System.Windows.Forms.DateTimePicker dtpNgayDi;
+        public System.Windows.Forms.ComboBox cboDiemDen;
+        public System.Windows.Forms.ComboBox cboDiemDi;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TabPage tab_XemVe;
-        private System.Windows.Forms.DataGridView dGV_DatVe;
+        public System.Windows.Forms.TabPage tab_XemVe;
+        public System.Windows.Forms.DataGridView dGV_DatVe;
         private System.Windows.Forms.Button btn_TimKiem;
-        private System.Windows.Forms.DataGridView dGV_XemVe;
+        public System.Windows.Forms.DataGridView dGV_XemVe;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox cboLocVe;
         private System.Windows.Forms.Button btn_Huy;
@@ -859,11 +859,11 @@ namespace WfrmQLXEKHACH
         private System.Windows.Forms.Button btnSuaTen;
         private System.Windows.Forms.Button btn_DangXuat;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.TextBox txt_Email;
-        private System.Windows.Forms.TextBox txt_DiaChi;
+        public System.Windows.Forms.TextBox txt_Email;
+        public System.Windows.Forms.TextBox txt_DiaChi;
         private System.Windows.Forms.TextBox txt_Sdt;
-        private System.Windows.Forms.TextBox txt_GioiTinh;
-        private System.Windows.Forms.TextBox txt_Ten;
+        public System.Windows.Forms.TextBox txt_GioiTinh;
+        public System.Windows.Forms.TextBox txt_Ten;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;

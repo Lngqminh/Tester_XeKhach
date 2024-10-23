@@ -17,7 +17,7 @@ namespace WfrmQLXEKHACH
             InitializeComponent();
         }
 
-        private void btnDangNhap_Click(object sender, EventArgs e)
+        public void btnDangNhap_Click(object sender, EventArgs e)
         {
             if (String.IsNullOrEmpty(txtUsername.Text))
             {
