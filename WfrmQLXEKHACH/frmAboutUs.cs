@@ -71,7 +71,7 @@ namespace WfrmQLXEKHACH
 
         private void button1_Click(object sender, EventArgs e)
         {
-            txtDuongDan.Text = "Data Source=baono1111;Initial Catalog=QLXEKHACH;Integrated Security=True";
+            txtDuongDan.Text = "Data Source=QuangMinh;Initial Catalog=QLXEKHACH;Integrated Security=True";
         }
     }
 }
