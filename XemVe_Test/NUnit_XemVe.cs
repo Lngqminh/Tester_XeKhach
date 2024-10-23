@@ -15,6 +15,7 @@ namespace XemVe_Test
         public void Setup()
         {
             // Khởi tạo form
+            connect = new CONNECTION();
             form = new frmHomeKhachHang();
             form.con = connect;
             form.Show(); // Hiển thị form để đảm bảo mọi control được khởi tạo
