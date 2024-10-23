@@ -12,7 +12,7 @@ namespace WfrmQLXEKHACH
 {
     public partial class frmQLTuyen : Form
     {
-        CONNECTION con = new CONNECTION();
+        public CONNECTION con = new CONNECTION();
         SqlDataAdapter da;
         DataTable dt;
         int flat;
@@ -27,7 +27,7 @@ namespace WfrmQLXEKHACH
             loadData();
         }
 
-        void loadData()
+        public void loadData()
         {
             string sql = "SELECT * FROM TUYENXE";
             da = new SqlDataAdapter(sql, con.connection);
@@ -68,7 +68,7 @@ namespace WfrmQLXEKHACH
             txt_KhoangCach.Enabled = false;
         }
 
-        private void btn_Them_Click(object sender, EventArgs e)
+        public void btn_Them_Click(object sender, EventArgs e)
         {
             btn_Luu.Enabled = true;
             txt_TenTX.Enabled = true;
@@ -82,7 +82,7 @@ namespace WfrmQLXEKHACH
 
         }
 
-        private void btn_Sua_Click(object sender, EventArgs e)
+        public void btn_Sua_Click(object sender, EventArgs e)
         {
             txt_TenTX.Enabled = true;
             txt_DiemDi.Enabled = true;
@@ -93,7 +93,7 @@ namespace WfrmQLXEKHACH
             flat = 1;
         }
 
-        private void btn_Luu_Click(object sender, EventArgs e)
+        public void btn_Luu_Click(object sender, EventArgs e)
         {
             string LayMaTX = "SELECT MaTuyenXe FROM TUYENXE ORDER BY MaTuyenXe DESC";
             da = new SqlDataAdapter(LayMaTX, con.connection);
@@ -162,7 +162,7 @@ namespace WfrmQLXEKHACH
 
         }
 
-        private void btn_Xoa_Click(object sender, EventArgs e)
+        public void btn_Xoa_Click(object sender, EventArgs e)
         {
             int index = dGV_QLTX.CurrentRow.Index;
             string MaTX2 = dGV_QLTX.Rows[index].Cells[0].Value.ToString();

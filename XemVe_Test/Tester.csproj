@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NUnit_DatVe.cs" />
+    <Compile Include="NUnit_TuyenXe.cs" />
     <Compile Include="NUnit_XemVe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

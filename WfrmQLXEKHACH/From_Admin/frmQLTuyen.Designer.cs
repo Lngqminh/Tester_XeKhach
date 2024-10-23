@@ -290,22 +290,21 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox txt_DiemDen;
-        private System.Windows.Forms.TextBox txt_DiemDi;
-        private System.Windows.Forms.TextBox txt_TenTX;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.DataGridView dGV_QLTX;
-        private System.Windows.Forms.Button btn_Them;
-        private System.Windows.Forms.Button btn_Sua;
-        private System.Windows.Forms.Button btn_Luu;
-        private System.Windows.Forms.Button btn_Xoa;
         private System.Windows.Forms.GroupBox groupBox3;
-        private System.Windows.Forms.TextBox txt_KhoangCach;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label1;
+        public System.Windows.Forms.Button btn_Them;
+        public System.Windows.Forms.TextBox txt_TenTX;
+        public System.Windows.Forms.TextBox txt_DiemDen;
+        public System.Windows.Forms.TextBox txt_DiemDi;
+        public System.Windows.Forms.Button btn_Sua;
+        public System.Windows.Forms.Button btn_Luu;
+        public System.Windows.Forms.Button btn_Xoa;
+        public System.Windows.Forms.TextBox txt_KhoangCach;
+        public System.Windows.Forms.DataGridView dGV_QLTX;
     }
 }
